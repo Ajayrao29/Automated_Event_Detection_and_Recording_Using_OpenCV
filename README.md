@@ -1,4 +1,4 @@
-🎥 Automated Event Detection and Recording using OpenCV
+🎥 Automated Event Detection and Recording using OpenCV <br/>
 A smart, real-time surveillance system built using Python and OpenCV
 that detects human presence using a webcam, records video only when a person is detected,
 and sends email alerts with snapshots.
